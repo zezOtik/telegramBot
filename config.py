@@ -1,0 +1,2 @@
+token = '420280071:AAE8OC_TgFSMl6U_ugEl7Bm9ETs2uXuPhT4'
+my_id = 22232494
